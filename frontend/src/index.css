@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  font-family: 'Urbanist';
+
+
+}
+
+.register-link{
+  width: 60%;
+  text-decoration: none;
+height: 40px;
+background-color: #066b0f;
+color: white;
+font-size: 1.2em;
+border-radius: 5px;
+display: grid;
+place-items: center;
+}
+.login-link{
+  width: 60%;
+  text-decoration: none;
+height: 40px;
+background-color: #990a16;
+color: white;
+font-size: 1.2em;
+border-radius: 5px;
+display: grid;
+place-items: center;
+}
+.link{
+  text-decoration: none;
+  color: inherit  ;
+}
+
+.active{
+  top: 120px !important ;
+}
